@@ -1,3 +1,3 @@
-class ConfirmationsController < Millia::ConfirmationsController
+class ConfirmationsController < Milia::ConfirmationsController
     
 end
